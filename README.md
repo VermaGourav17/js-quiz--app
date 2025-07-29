@@ -1,2 +1,2 @@
 # js-quiz--app
-created by js
+creat by js
